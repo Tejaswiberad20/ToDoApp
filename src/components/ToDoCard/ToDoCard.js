@@ -15,10 +15,10 @@ function ToDoCard({index,task,category,deleteItem}) {
   const CATEGORY_COLOURS ={
     Learning:"green",
     Work:"blue",
-    Shopping:"pink",
+    Shopping:"purple",
     Health:"red",
     Others:"gray",
-    Personal:"pink"
+    Personal:"black"
   
   }
   const theme ={
