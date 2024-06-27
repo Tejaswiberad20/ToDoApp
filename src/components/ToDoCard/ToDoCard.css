@@ -1,0 +1,31 @@
+
+.todo_card{
+    border: 1px solid palegreen;
+    padding: 10px 20px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 25px;
+    position: relative;
+   display: flex;
+   align-items: center;
+  
+   
+}
+.category{
+ position: absolute;
+ top: 5px;
+ right: 5px;
+ background-color: #ffff;
+ font-size: 14px;
+ padding: 10px 20px;
+ width: 80px;
+ text-align: center;
+ color: #ffff;
+ border-radius: 20px;
+ 
+}
+.delete_icon{
+    height: 20px;
+    margin-right: 10px;
+    cursor: pointer;
+}

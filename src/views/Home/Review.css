@@ -1,0 +1,57 @@
+.app-title{
+    text-align: center;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0px #3a3a3a;
+    margin: 10px;
+
+}
+.todo-list-container{
+    background-color: #fff;
+    height: 400px;
+    width: 550px;
+    border-radius:5px;
+    margin: 15px auto;
+    padding: 5px;
+    overflow-y: scroll;
+    box-shadow:  0 0 5px 0px #3a3a3a;
+
+} 
+.todo-list-container:hover{
+    box-shadow: 0 0 20px  rgba(0, 0, 0, 0.3);
+} 
+
+
+.add-input{
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 1px solid black;
+    margin-right: 20px;
+}
+.add-icon{
+    height: 50px;
+    cursor: pointer;
+  
+
+}
+
+
+.add-todo-list-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  
+
+}
+.category-select{
+    padding: 10px 20px;
+    border-radius: 10px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    margin-right: 12px;
+    border: 1px solid black;
+    
+}
