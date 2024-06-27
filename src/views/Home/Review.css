@@ -19,7 +19,7 @@
 
 } 
 .todo-list-container:hover{
-    box-shadow: 0 0 20px  rgba(0, 0, 0, 0.3);
+  box-shadow: 0 0 10px 0px #3a3a3a;
 } 
 
 
