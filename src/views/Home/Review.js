@@ -47,7 +47,7 @@ function deleteItem(index){
 
 }
   return (  <div>
-  <h1 className="app-title">To-Do-App</h1>
+  <h1 className="app-title">To-Do-App📝</h1>
  
   <div className="todo-list-container">
   { todoList.map((todoItem,i)=>{
